@@ -1,6 +1,6 @@
 # Project FinMin
 All the former Finance Ministers of India, whether dead or alive, have been resurrected and brought together into this AI brain that knows everything about every budget ever tabled in the history of the country.
-[Ministers](/ministers.jpg)
+![Ministers](/ministers.jpg)
 
 
 ## Problem Statement
