@@ -1,0 +1,4 @@
+langchain==0.0.200
+nicegui==1.2.20
+PyPDF2==3.0.1
+Requests==2.31.0
