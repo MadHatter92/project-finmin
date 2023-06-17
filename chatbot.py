@@ -10,7 +10,6 @@ from langchain.llms import OpenAI
 from typing import List, Tuple
 
 from nicegui import Client, ui
-import chatbot
 
 #Passing secrets
 with open('../Secrets/open_ai_api_key.txt', 'r') as file:
