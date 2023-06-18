@@ -16,7 +16,7 @@ with open('../Secrets/open_ai_api_key.txt', 'r') as file:
 os.environ['OPENAI_API_KEY'] = key
 
 #Reading in all PDFs
-folder_path = "/media/pranshumaan/TOSHIBA EXT/Dev/Project_Finmin/test_folder/"
+folder_path = "/media/pranshumaan/TOSHIBA EXT/Dev/Project_Finmin/Budget_Speeches_PDF/"
 loader = PyPDFDirectoryLoader(folder_path)
 docs = loader.load()
 
